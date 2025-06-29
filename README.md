@@ -1,1 +1,1 @@
-# aplicacoes
+# Gerador de senha em JavaScript
